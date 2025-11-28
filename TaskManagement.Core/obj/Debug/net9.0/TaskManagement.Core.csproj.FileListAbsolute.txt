@@ -1,0 +1,24 @@
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\bin\Debug\net9.0\TaskManagement.Core.deps.json
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\bin\Debug\net9.0\TaskManagement.Core.dll
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\bin\Debug\net9.0\TaskManagement.Core.pdb
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.AssemblyInfoInputs.cache
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.AssemblyInfo.cs
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.csproj.CoreCompileInputs.cache
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.sourcelink.json
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.dll
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\refint\TaskManagement.Core.dll
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.pdb
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\ref\TaskManagement.Core.dll
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\bin\Debug\net9.0\TaskManagement.Core.deps.json
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\bin\Debug\net9.0\TaskManagement.Core.dll
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\bin\Debug\net9.0\TaskManagement.Core.pdb
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.AssemblyInfoInputs.cache
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.AssemblyInfo.cs
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.csproj.CoreCompileInputs.cache
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.sourcelink.json
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.dll
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\refint\TaskManagement.Core.dll
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\TaskManagement.Core.pdb
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Core\obj\Debug\net9.0\ref\TaskManagement.Core.dll

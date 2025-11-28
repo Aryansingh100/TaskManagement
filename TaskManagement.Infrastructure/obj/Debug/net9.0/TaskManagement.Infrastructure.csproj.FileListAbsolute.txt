@@ -1,0 +1,36 @@
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.deps.json
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.runtimeconfig.json
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.dll
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.pdb
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Core.dll
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Core.pdb
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.AssemblyInfo.cs
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.sourcelink.json
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskMana.BCA0E1A6.Up2Date
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.dll
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\refint\TaskManagement.Infrastructure.dll
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.pdb
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.genruntimeconfig.cache
+c:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\ref\TaskManagement.Infrastructure.dll
+C:\Users\brete\Fall 2025\Software Systems\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.deps.json
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.runtimeconfig.json
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.dll
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Infrastructure.pdb
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Core.dll
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\bin\Debug\net9.0\TaskManagement.Core.pdb
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.AssemblyInfo.cs
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.sourcelink.json
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskMana.BCA0E1A6.Up2Date
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.dll
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\refint\TaskManagement.Infrastructure.dll
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.pdb
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\TaskManagement.Infrastructure.genruntimeconfig.cache
+c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.Infrastructure\obj\Debug\net9.0\ref\TaskManagement.Infrastructure.dll
