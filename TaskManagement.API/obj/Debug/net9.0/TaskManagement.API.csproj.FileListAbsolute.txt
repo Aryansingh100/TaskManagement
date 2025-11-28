@@ -325,3 +325,11 @@ c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagemen
 c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\obj\Debug\net9.0\TaskManagement.API.pdb
 c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\obj\Debug\net9.0\TaskManagement.API.genruntimeconfig.cache
 c:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\obj\Debug\net9.0\ref\TaskManagement.API.dll
+C:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\brete\Fall 2025\Programming\TASKMANAGEMENT\TaskManagement\TaskManagement.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

@@ -3,7 +3,9 @@ using TaskManagement.Core.Models;
 using TaskManagement.Core.Interfaces;
 using TaskManagement.Core.DTOs;
 using Microsoft.AspNetCore.JsonPatch;
+using Microsoft.AspNetCore.Authorization;
 
+[Authorize]
 [Route("api/[Controller]")]
 [ApiController]
 

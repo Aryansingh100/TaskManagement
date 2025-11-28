@@ -17,8 +17,7 @@ options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")
 // Register Repository
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
 
-var app = builder.Build();
-
+// Authorization settings
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 var secretKey = jwtSettings["SecretKey"];
 
@@ -40,6 +39,10 @@ builder.Services.AddAuthentication(options =>
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey)),
     };
 });
+
+builder.Services.AddAuthorization();
+
+var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
